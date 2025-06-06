@@ -1,5 +1,17 @@
 <h1>Hey👋, I'm Charlie</h1>
-<p>A Computer Science graduate passionate about digital education and game development projects.</p>
+  <h2>About Me</h2>
+  <p>
+    I'm Charlie, a recent Computer Science graduate passionate about coding and ready to make a difference in the industry.
+  </p>
+  <p>
+    When I first started programming, I focused on game development on <strong>ROBLOX Studio</strong>. Since then, I've begun exploring various frameworks and have developed a strong interest in <strong>backend systems</strong>, <strong>networks</strong>, and <strong>cybersecurity</strong>.
+  </p>
+  <p>
+    I've always been passionate about <strong>computer science</strong> and <strong>digital education</strong>, even taking up tutoring during my studies. My current personal project is a <strong>web platform to help people learn Lua</strong>.
+  </p>
+  <p>
+    Digital education is a space I truly care about and would love to continue contributing to in the future.
+  </p>
 <hr>
 <ul>
   <li>📖 <strong>Education</strong>: Computer Science BSc, University of Leicester.</li>
