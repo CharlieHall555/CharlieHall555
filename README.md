@@ -1,8 +1,8 @@
 <h1>Hey 👋, I'm Charlie</h1>
 <p>A Computer Science graduate passionate about digital education and game development projects.</p>
 <hr>
-📖 Education : Computer Science Bsc University of Leicester
-🖥️ Working On: A Roblox Studio Enviroment Emulator with Luau Interpreter.
+📖 Education : Computer Science Bsc University of Leicester.\n
+🖥️ Working On: A Roblox Studio Enviroment Emulator with Luau Interpreter.\n
 
 ✔️: Worked On:
 -
