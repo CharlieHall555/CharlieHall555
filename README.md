@@ -1,11 +1,11 @@
 <h1>Hey 👋, I'm Charlie</h1>
 <p>A Computer Science graduate passionate about digital education and game development projects.</p>
 <hr>
-📖 Education : Computer Science Bsc University of Leicester.\n
-🖥️ Working On: A Roblox Studio Enviroment Emulator with Luau Interpreter.\n
-
-✔️: Worked On:
--
+- 📖 Education : Computer Science Bsc University of Leicester.
+- 🖥️ Working On: A Roblox Studio Enviroment Emulator with Luau Interpreter.
+- ✔️: Worked On:
+  - 🗳️ An inovative internet voting approach using blockchain.
+  - 🎮 Several Roblox game projects.
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="42" height="42" /></a>
