@@ -1,4 +1,4 @@
-<h1>Hey 👋, I'm Charlie</h1>
+<h1>Hey👋, I'm Charlie</h1>
 <p>A Computer Science graduate passionate about digital education and game development projects.</p>
 <hr>
 <ul>
