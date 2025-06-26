@@ -23,8 +23,10 @@
     <li>
       ✔️ <strong>Projects</strong>:
       <ul>
-        <li>🗳️ An innovative internet voting approach using blockchain</li>
-        <li><a href="https://github.com/CharlieHall555/Internet-Voting-Sytem" target="_blank">View Repository</a></li>
+        <li>
+          🗳️ <strong>Internet Voting System</strong> — A placeholder description for an innovative internet voting approach using blockchain.
+          [<a href="https://github.com/CharlieHall555/Internet-Voting-Sytem" target="_blank">Repository</a>]
+        </li>
       </ul>
     </li>
   </ul>
