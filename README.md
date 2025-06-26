@@ -1,10 +1,12 @@
-<h1>Hey👋, I'm Charlie</h1>
+<section>
+  <h1>Hey👋, I'm Charlie</h1>
+
   <h2>About Me</h2>
   <p>
     I'm Charlie, a recent Computer Science graduate passionate about coding and ready to make a difference in the industry.
   </p>
   <p>
-    When I first started programming, I focused on game development on <strong>ROBLOX Studio</strong>. Since then, I've begun exploring various frameworks and have developed a strong interest in <strong>backend systems</strong>, <strong>networks</strong>, and <strong>cybersecurity</strong>.
+    When I first started programming, I focused on game development on <strong>ROBLOX Studio</strong>. Since then, I've explored various frameworks and developed a strong interest in <strong>backend systems</strong>, <strong>networks</strong>, and <strong>cybersecurity</strong>.
   </p>
   <p>
     I've always been passionate about <strong>computer science</strong> and <strong>digital education</strong>, even taking up tutoring during my studies. My current personal project is a <strong>web platform to help people learn Lua</strong>.
@@ -12,16 +14,21 @@
   <p>
     Digital education is a space I truly care about and would love to continue contributing to in the future.
   </p>
-<hr>
-<ul>
-  <li>📖 <strong>Education</strong>: Computer Science BSc (1st Class), University of Leicester.</li>
-  <li>🖥️ <strong>Working On</strong>: A Roblox Studio Environment Emulator with Luau Interpreter.</li>
-  <li>✔️ <strong>Projects</strong>:
-        <b> 🗳️ An innovative internet voting approach using blockchain. </b>
-        <p> hello world</p>
-        [Repository]([https://example.com](https://github.com/CharlieHall555/Internet-Voting-Sytem))
-  </li>
-</ul>
+
+  <hr />
+
+  <ul>
+    <li>📖 <strong>Education</strong>: Computer Science BSc (1st Class), University of Leicester</li>
+    <li>🖥️ <strong>Working On</strong>: A Roblox Studio Environment Emulator with Luau Interpreter</li>
+    <li>
+      ✔️ <strong>Projects</strong>:
+      <ul>
+        <li>🗳️ An innovative internet voting approach using blockchain</li>
+        <li><a href="https://github.com/CharlieHall555/Internet-Voting-Sytem" target="_blank">View Repository</a></li>
+      </ul>
+    </li>
+  </ul>
+</section>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="42" height="42" /></a>
