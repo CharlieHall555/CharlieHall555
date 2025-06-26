@@ -24,9 +24,13 @@
       ✔️ <strong>Projects</strong>:
       <ul>
         <li>
-          🗳️ <strong>Internet Voting System</strong> — A placeholder description for an innovative internet voting approach using blockchain.
+          🗳️ <strong>Internet Voting System</strong> — I Developed an innovative internet voting approach for my final year project, using a custom blockchain to ensure transparent and secure voting.
           [<a href="https://github.com/CharlieHall555/Internet-Voting-Sytem" target="_blank">Repository</a>]
         </li>
+        <li>
+        🎮 <strong>Spleef (Roblox Game)</strong> — A fast-paced competitive game (based on the minecraft original) where players destroy blocks beneath opponents to make them fall. Built using Roblox Studio and Luau scripting.
+        [<a href="https://www.roblox.com/games/17565921725/Spleef" target="_blank">Play</a>]
+      </li>
       </ul>
     </li>
   </ul>
