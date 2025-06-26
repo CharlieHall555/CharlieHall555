@@ -17,14 +17,14 @@
   <li>📖 <strong>Education</strong>: Computer Science BSc (1st Class), University of Leicester.</li>
   <li>🖥️ <strong>Working On</strong>: A Roblox Studio Environment Emulator with Luau Interpreter.</li>
   <li>✔️ <strong>Projects</strong>:
-    <ul>
+    <ol>
       <li>
         <b> 🗳️ An innovative internet voting approach using blockchain. </b>
         <p> hello world</p>
         [Repository]([https://example.com](https://github.com/CharlieHall555/Internet-Voting-Sytem))
       </li>
       <li>🎮 Several Roblox game projects.</li>
-    </ul>
+    </ol>
   </li>
 </ul>
 
