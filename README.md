@@ -9,18 +9,12 @@ I've always been passionate about **computer science** and **digital education**
 
 Digital education is a space I truly care about and would love to continue contributing to in the future.  
 
----
-
 ## 🎓 Education
 - **BSc Computer Science (1st Class)** – University of Leicester  
-
----
 
 ## 🚧 What I’m Working On
 - 🖥️ **Roblox Studio Environment Emulator with Luau Interpreter**  
 - 🌐 **Web platform for learning Lua**  
-
----
 
 ## 🚀 Projects  
 
