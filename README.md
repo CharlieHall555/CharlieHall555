@@ -29,11 +29,10 @@ Here’s a selection of my projects. I’ll keep adding more here:
 - 🗳️ **Internet Voting System** – Developed for my final year project, using a custom blockchain to ensure transparent and secure voting.  
   [🔗 Repository](https://github.com/CharlieHall555/Internet-Voting-Sytem)  
 
-- 🎮 **Spleef (Roblox Game)** – A fast-paced competitive game (inspired by the Minecraft original) where players destroy blocks beneath opponents to make them fall. Built using Roblox Studio and Luau scripting.  
-  [🎮 Play on Roblox](https://www.roblox.com/games/17565921725/Spleef) | 🔑 Source available on request  
+- 🎮 **Spleef (Roblox Game)** – A fast-paced competitive game (inspired by the Minecraft original) where players destroy blocks beneath opponents to make them fall. Built using Roblox Studio and Luau scripting.  | 🔑 Source available on request  
 
 - 📊 **Leaderboard API** – A FastAPI backend for global/weekly/monthly Roblox leaderboards with batch updates and database storage.  
-  [🔗 Repository](https://github.com/CharlieHall555/leaderboard-api)  
+  [🔗 Repository](https://github.com/CharlieHall555/LeaderboardAPI)
 
 *(More projects coming soon…)*  
 
