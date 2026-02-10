@@ -1,13 +1,11 @@
 # Hey👋, I'm Charlie  
 
 ## 👨‍💻 About Me
-I'm Charlie, a recent Computer Science graduate passionate about coding and ready to make a difference in the industry.  
+I’m Charlie, a recent Computer Science graduate with a strong interest in software engineering, particularly within game development and digital education.
 
-When I first started programming, I focused on **game development in ROBLOX Studio**. Since then, I've explored various frameworks and developed a strong interest in **backend systems**, **networks**, and **cybersecurity**.  
+I began programming through game development in ROBLOX Studio, which sparked a long-term interest in building interactive systems and clean, maintainable software. Since then, I’ve expanded my skills across broader software development, including backend systems and application architecture.
 
-I've always been passionate about **computer science** and **digital education**, even taking up tutoring during my studies. My current personal project is a **web platform to help people learn Lua**.  
-
-Digital education is a space I truly care about and would love to continue contributing to in the future.  
+Alongside my studies, I worked as a coding tutor, helping young learners develop programming fundamentals and problem-solving skills. Teaching has reinforced my belief in the importance of accessible, engaging digital education.
 
 ## 🎓 Education
 - **BSc Computer Science (1st Class)** – University of Leicester  
