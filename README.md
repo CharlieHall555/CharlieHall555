@@ -11,8 +11,7 @@ Alongside my studies, I worked as a coding tutor, helping young learners develop
 - **BSc Computer Science (1st Class)** – University of Leicester  
 
 ## 🚧 What I’m Working On
-- 🖥️ **Roblox Studio Environment Emulator with Luau Interpreter**  
-- 🌐 **Web platform for learning Lua**  
+  - Live weather station monitoring project with Arduino 
 
 ## 🚀 Projects  
 
