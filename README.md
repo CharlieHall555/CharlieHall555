@@ -1,12 +1,11 @@
 # Hey👋, I'm Charlie  
 
 ## 👨‍💻 About Me
-I’m Charlie, a recent Computer Science graduate with a strong interest in software engineering, particularly within game development and digital education.
+I'm Charlie, a recent First Class Computer Science graduate with a strong interest in software engineering, particularly backend systems, embedded software, and building reliable applications that solve real-world problems.
 
-I began programming through game development in ROBLOX Studio, which sparked a long-term interest in building interactive systems and clean, maintainable software. Since then, I’ve expanded my skills across broader software development, including backend systems and application architecture.
+I first discovered programming through Roblox game development, where I developed a strong foundation in software design and interactive systems. Since then, I've broadened my experience by building backend services with Python and FastAPI, developing networked applications, and creating embedded systems using ESP32 microcontrollers. I particularly enjoy designing end-to-end systems that combine hardware, networking, and software.
 
-Alongside my studies, I worked as a coding tutor, helping young learners develop programming fundamentals and problem-solving skills. Teaching has reinforced my belief in the importance of accessible, engaging digital education.
-
+Alongside my technical projects, I've worked as a coding tutor, helping young learners develop programming and problem-solving skills. Teaching has strengthened my communication skills and reinforced my passion for making computing and digital education engaging and accessible.
 ## 🎓 Education
 - **BSc Computer Science (1st Class)** – University of Leicester  
 
