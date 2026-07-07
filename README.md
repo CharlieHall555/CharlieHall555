@@ -12,7 +12,7 @@ Alongside my studies, I worked as a coding tutor, helping young learners develop
 
 ## 🚧 What I’m Working On
   - Live weather station monitoring project with Microcontroller
-[🔗 Repository](https://github.com/CharlieHall555/EnviromentLogger)  
+  [🔗 Repository](https://github.com/CharlieHall555/EnviromentLogger)  
 
 ## 🚀 Projects  
 
