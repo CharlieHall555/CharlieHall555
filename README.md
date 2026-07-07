@@ -11,11 +11,10 @@ Alongside my studies, I worked as a coding tutor, helping young learners develop
 - **BSc Computer Science (1st Class)** – University of Leicester  
 
 ## 🚧 What I’m Working On
-  - Live weather station monitoring project with Microcontroller 
+  - Live weather station monitoring project with Microcontroller
+[🔗 Repository](https://github.com/CharlieHall555/EnviromentLogger)  
 
 ## 🚀 Projects  
-
-Here’s a selection of my projects. I’ll keep adding more here:  
 
 - 🗳️ **Internet Voting System** – Developed for my final year project, using a custom blockchain to ensure transparent and secure voting.  
   [🔗 Repository](https://github.com/CharlieHall555/Internet-Voting-Sytem)  
@@ -27,8 +26,6 @@ Here’s a selection of my projects. I’ll keep adding more here:
 
 - 📊 **Leaderboard API** – A FastAPI backend for global/weekly/monthly Roblox leaderboards with batch updates and database storage.  
   [🔗 Repository](https://github.com/CharlieHall555/LeaderboardAPI)
-
-*(More projects coming soon…)*  
 
 ---
 
