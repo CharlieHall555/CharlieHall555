@@ -10,17 +10,18 @@ Alongside my technical projects, I've worked as a coding tutor, helping young le
 - **BSc Computer Science (1st Class)** – University of Leicester  
 
 ## 🚧 What I’m Working On
-  - Live weather station monitoring project with Microcontroller
-  [🔗 Repository](https://github.com/CharlieHall555/EnviromentLogger)  
+  - Live weather station monitoring project with Microcontroller. 
+[🔗 Repository](https://github.com/CharlieHall555/EnviromentLogger)  
 
 ## 🚀 Projects  
 
 - 🗳️ **Internet Voting System** – Developed for my final year project, using a custom blockchain to ensure transparent and secure voting.  
   [🔗 Repository](https://github.com/CharlieHall555/Internet-Voting-Sytem)  
 
-- 🎮 **Spleef (Roblox Game)** – A fast-paced competitive game (inspired by the Minecraft original) where players destroy blocks beneath opponents to make them fall. Built using Roblox Studio and Luau scripting.  | 
+- 🎮 **Spleef (Roblox Game)** – A fast-paced competitive game (inspired by the Minecraft original) where players destroy blocks beneath opponents to make them fall. Built using Roblox Studio and Luau scripting. 
+[🔗 Repository](https://github.com/CharlieHall555/SpleefRemastered)
 
-- 📊 **Roblox Sim Engine** – Roblox evaluation engine with a FastAPI backend.  
+- 📊 **Roblox Sim Engine** – Roblox evaluation engine with a FastAPI backend.   
   [🔗 Repository](https://github.com/CharlieHall555/RobloxSimEngine)
 
 - 📊 **Leaderboard API** – A FastAPI backend for global/weekly/monthly Roblox leaderboards with batch updates and database storage.  
